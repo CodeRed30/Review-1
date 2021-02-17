@@ -9,7 +9,6 @@ School gives string of grades and report must return them counted. Strings may n
 
 | Input | Output |
 | :------------- | :------------- |
-
 | 'Green' | "Green: 1" |
 | 'Green, Green' | 'Green: 2' |
 | 'Green, Green, Amber' | 'Green: 2\nAmber: 1' |
