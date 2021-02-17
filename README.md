@@ -1,4 +1,4 @@
-#School Report
+# School Report
 
 ## Problem
 School gives string of grades and report must return them counted. Strings may not be uniform and may have irregular values but they should all be accounted for.
