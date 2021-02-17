@@ -3,7 +3,7 @@
 ## Problem
 School gives string of grades and report must return them counted. Strings may not be uniform and may have irregular values but they should all be accounted for.
 
-#Examplar
+## Examplar
 "Green, Green, Amber, Red, Green" => "Green: 3\nAmber: 1\nRed: 1"
 
 
